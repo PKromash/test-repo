@@ -1,3 +1,3 @@
 inp = input()
-for i in range(inp):
+for i in range(int(inp)):
     print("hello world")
